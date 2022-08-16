@@ -184,7 +184,7 @@ For more information about using the `Ref` function, see [Ref](https://docs.aws.
 
 ### Create a Run Command task that targets instances using a resource group name<a name="aws-resource-ssm-maintenancewindowtask--examples--Create_a_Run_Command_task_that_targets_instances_using_a_resource_group_name"></a>
 
-The following example creates a maintenance window Run Command task that installs patches on instances using a using a resource group name as the target\.
+The following example creates a maintenance window Run Command task that installs patches on instances using a resource group name as the target\.
 
 #### JSON<a name="aws-resource-ssm-maintenancewindowtask--examples--Create_a_Run_Command_task_that_targets_instances_using_a_resource_group_name--json"></a>
 
